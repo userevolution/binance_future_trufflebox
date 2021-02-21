@@ -8,7 +8,7 @@ With this project is a boiler plate for truffle configuration with Binance Migra
 
 See the video here : 
 
-[![IMAGE ALT TEXT HERE](https://i.imgur.com/y6YHtDv.png)](https://www.youtube.com/watch?v=https://youtu.be/q_a53W9ZkkM)
+[![IMAGE ALT TEXT HERE](https://i.imgur.com/y6YHtDv.png)](https://www.youtube.com/watch?v=q_a53W9ZkkM)
 
 
 
