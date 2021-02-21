@@ -4,7 +4,9 @@ Truffle [1] is a world class development environment, testing framework and asse
 
 Truffle Boxes [2] are helpful boilerplates that allow you to focus on what makes your dapp unique. In addition to Truffle, Truffle Boxes can contain other helpful modules, Solidity contracts & libraries, front-end views, etc. 
 
-With this project is a boiler plate for truffle configuration with Binance Testnet :) 
+With this project is a boiler plate for truffle configuration with Binance Migration Testnet :) 
+
+[![IMAGE ALT TEXT HERE](https://i.imgur.com/y6YHtDv.png)](https://www.youtube.com/watch?v=https://youtu.be/q_a53W9ZkkM)
 
 
 
@@ -16,13 +18,19 @@ In the command line
 and you will get a full Solidity -Truffle template to upload to Binance testnet :) 
 
 
-
-
-[![IMAGE ALT TEXT HERE](https://i.imgur.com/DkQDZGL.png)](https://www.youtube.com/watch?v=https://youtu.be/q_a53W9ZkkM)
+![](https://i.imgur.com/rK0gaWs.png)
 
 
 ## Snapshots
-![](box.png)
+
+
+![](https://i.imgur.com/y6YHtDv.png)
+![](https://i.imgur.com/vwElAn7.png)
+
+![](https://i.imgur.com/puviUA0.png)
+
+
+
 
 
 ## Videos
@@ -73,7 +81,8 @@ Also you can very the deployed contract
 
 
 ## REFERENCES  
+
 [1] https://www.trufflesuite.com/
 [2]https://www.trufflesuite.com/boxes
-*NOTE:* BINANCE_API_KEY is the generated key api for verify constracts (optional)
-https://bscscan.com/myapikey 
+
+
