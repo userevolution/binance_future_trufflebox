@@ -24,10 +24,8 @@ and you will get a full Solidity -Truffle template to upload to Binance testnet 
 ## Snapshots
 ![](box.png)
 
-![](https://i.imgur.com/DkQDZGL.png)
 
 ## Videos
-
 
 
 https://youtu.be/q_a53W9ZkkM
