@@ -14,11 +14,13 @@ See the video here :
 
 ## Installation
 
-In the command line 
+In the command line type: 
 `truffle unbox usersolidity/binance_future_trufflebox`
 
 and you will get a full Solidity -Truffle template to upload to Binance testnet :) 
 
+to upload your Solidity files to Binance testnet type: 
+`truffle migrate --network binance`
 
 ![](https://i.imgur.com/rK0gaWs.png)
 
@@ -28,23 +30,17 @@ and you will get a full Solidity -Truffle template to upload to Binance testnet 
 
 ![](https://i.imgur.com/y6YHtDv.png)
 ![](https://i.imgur.com/vwElAn7.png)
-
 ![](https://i.imgur.com/puviUA0.png)
-
-
-
-
 
 ## Videos
 
 
 https://youtu.be/q_a53W9ZkkM
+
 https://youtu.be/D36PhP3Vtss
 
 
-## Use of Truffle Binance Testnet Template 
-
-### Install truffle 
+### Requirements
 
 
 https://www.trufflesuite.com/docs/truffle/getting-started/installation
@@ -70,14 +66,12 @@ BINANCE_API_KEY =
 `npm install`
 
  
- 
 Migrate your contract to the Binance Smart Chain 
 `truffle migrate --network binance`
 Also you can very the deployed contract 
 
 `truffle run verify Migrations --network binance`
 
-## Video 
 
 
 
