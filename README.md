@@ -35,6 +35,11 @@ Install dependencies
 
 npm install
 
+truffle develop 
+compile 
+migrate --reset
+truffle develop --log 
+
 Migrate your contract to the Binance Smart Chain
 truffle migrate --network binance
 Also you can very the deployed contract
