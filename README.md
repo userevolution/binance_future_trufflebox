@@ -6,6 +6,8 @@ Truffle Boxes [2] are helpful boilerplates that allow you to focus on what makes
 
 With this project is a boiler plate for truffle configuration with Binance Migration Testnet :) 
 
+See the video here : 
+
 [![IMAGE ALT TEXT HERE](https://i.imgur.com/y6YHtDv.png)](https://www.youtube.com/watch?v=https://youtu.be/q_a53W9ZkkM)
 
 
