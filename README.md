@@ -31,6 +31,7 @@ MNEMONIC =
 URL_BINANCE_TESTNET =
 URL_BINANCE_MAINNET =
 BINANCE_API_KEY =
+
 Install dependencies
 
 npm install
