@@ -77,4 +77,3 @@ Also you can very the deployed contract
 [2]https://www.trufflesuite.com/boxes
 *NOTE:* BINANCE_API_KEY is the generated key api for verify constracts (optional)
 https://bscscan.com/myapikey 
-
